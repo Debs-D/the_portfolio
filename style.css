@@ -3,6 +3,7 @@ body {
   padding: 50px 0 0 0;
   min-height: 100vh;
   background-image: url("./images/BG.svg");
+  font-family: "Work Sans";
 }
 
 header {
@@ -307,6 +308,7 @@ article {
 .crads > div {
   padding: 0 20px;
 }
+
 .btn-box2 img {
   width: 16px;
   height: 16px;
